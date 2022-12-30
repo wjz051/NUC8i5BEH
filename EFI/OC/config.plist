@@ -449,7 +449,7 @@
                     <key>Comment</key>
                     <string>Intel Onboard Bluetooth</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/IntelBluetoothFirmware</string>
                     <key>MaxKernel</key>
@@ -467,7 +467,7 @@
                     <key>Comment</key>
                     <string>Intel Onboard Bluetooth</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string></string>
                     <key>MaxKernel</key>
@@ -485,7 +485,7 @@
                     <key>Comment</key>
                     <string>Intel Onboard Wifi - Airport</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/AirportItlwm</string>
                     <key>MaxKernel</key>
@@ -557,7 +557,7 @@
                     <key>Comment</key>
                     <string></string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/IO80211Family</string>
                     <key>Identifier</key>
